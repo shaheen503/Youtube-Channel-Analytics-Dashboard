@@ -4,3 +4,4 @@ plotly
 matplotlib
 wordcloud
 openpyxl
+streamlit-extras
