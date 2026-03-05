@@ -5,3 +5,5 @@ matplotlib
 wordcloud
 openpyxl
 streamlit-extras
+numpy
+
